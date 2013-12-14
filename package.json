@@ -1,0 +1,20 @@
+{
+  "name": "ag.alert",
+  "version": "0.0.0",
+  "description": "angular.js alert directive, extracted into npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "nerl",
+    "directive"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/ag.alert"
+  }
+}
