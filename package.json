@@ -19,5 +19,13 @@
   },
   "dependencies": {
     "nerl": "0.0.0"
+  },
+  "browserify": {
+    "transform": [
+      "dinline"
+    ]
+  },
+  "devDependencies": {
+    "dinline": "0.0.1"
   }
 }
